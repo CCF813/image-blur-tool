@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image Blur Tool
 
 A simple tool to select and blur areas in an image using Tkinter and OpenCV.
@@ -14,3 +15,6 @@ A simple tool to select and blur areas in an image using Tkinter and OpenCV.
 - Python 3.x
 - Pillow
 - OpenCV
+=======
+# image-blur-tool
+>>>>>>> 0ebe1d53f473b874b2d29a4f928715285d7acbe7
