@@ -64,6 +64,16 @@ For users who prefer not to set up a Python environment, an executable file is a
 1. Navigate to the `/dist/main/` directory.
 2. Double-click on `main_with_icon.exe` to start the Image Blur Tool.
 
+## Portable Executable
+A portable version of the main executable is available for convenience:
+
+- Path: `/main_portable.exe`
+- This executable can be run directly on Windows systems without requiring a Python environment setup.
+
+### Running the Portable Executable
+1. Navigate to the project root directory.
+2. Double-click on `main_portable.exe` to start the Image Blur Tool.
+
 ## Contributing
 
 ### Contribution Guidelines
